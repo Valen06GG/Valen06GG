@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Valentín
 
-<!--
-**Valen06GG/Valen06GG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web junior, enfocado en Frontend.
+Actualmente estoy aprendiendo y creando proyectos con React y Next.js.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- React
+- Next.js
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- Aplicación web en React
+- Proyecto en Next.js con rutas y componentes
+- Landing page responsive con HTML y CSS
+
+## 📫 Contacto
+- LinkedIn: (tu link)
