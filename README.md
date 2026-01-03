@@ -18,3 +18,5 @@ Actualmente estoy aprendiendo y creando proyectos con React y Next.js.
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/valentín-fortunato-a81771368/
+
+- Correo: valenfortunato06@gmail.com
