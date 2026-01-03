@@ -17,4 +17,4 @@ Actualmente estoy aprendiendo y creando proyectos con React y Next.js.
 - Landing page responsive con HTML y CSS
 
 ## 📫 Contacto
-- LinkedIn: (tu link)
+- LinkedIn: https://www.linkedin.com/in/valentín-fortunato-a81771368/
